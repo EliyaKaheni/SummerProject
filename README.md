@@ -6,6 +6,8 @@ You have to group people acording to their income and also their proprties using
 Three csv files containing people info, cars info and houses info
 # Output
 Finally you should export a csv file which shows the people, their financial info and also their group
+# Where to start
+Start from OurNiceProject.pdf file to discover the projects details
 # Contact
 E-mail: eliya.kaheni@gmail.com
 Telegram: @eliyahastam
